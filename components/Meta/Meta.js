@@ -32,6 +32,7 @@ const Meta = () => (
     <meta name="twitter:url" content={METADATA.siteUrl} />
     <meta name="twitter:image" content={METADATA.image} />
 
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
